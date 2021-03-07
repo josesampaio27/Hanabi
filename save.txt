@@ -1,0 +1,14 @@
+hand_player1 - 30 40 0 23 44 
+hand_player2 - 49 38 20 8 29 
+draw_deck - 30 49 40 38 0 11 23 8 44 29 20 13 26 7 37 24 45 27 0 10 36 21 18 41 48 5 25 33 4 32 12 17 19 34 14 28 6 9 3 46 47 35 43 1 22 16 31 15 2 39 
+cards_discard - 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+lives - 3
+ronda - 4
+hints - 5
+draw_dimension - 39
+card_a - 0, card_b -1, card_c - 0, card_d - 0, card_e - 0
+card_a_color - 8, card_b_color -8, card_c_color - 2, card_d_color - 8, card_e_color - 2
+card_ap_color - 8, card_bp_color -8, card_cp_color - 9, card_dp_color - 8, card_ep_color - 8
+number_hint_a - 0, number_hint_b -0, number_hint_c - 0, number_hint_d - 0, number_hint_e - 0
+number_hint_ap - 0, number_hint_bp -0, number_hint_cp - 0, number_hint_dp - 0, number_hint_ep - 0
+name - jose sampaio
